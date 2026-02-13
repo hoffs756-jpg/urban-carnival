@@ -1,8 +1,12 @@
 h1 {
   font-family: sans-serif;
 }
+h2{ 
+  font-family: sans-serif;
+}
 p {
   font-family: sans-serif;
+  
 }
 
 img {
@@ -17,5 +21,6 @@ img {
     100% {
         transform: rotate(-40deg);
     }
+
 
 
