@@ -7,5 +7,15 @@ p {
 
 img {
   width: 300px;
+  animation: rotate 2s infinite steps(2);
 }
+
+@keyframes rotate {
+    0% {
+        transform: rotate(15deg);
+    }
+    100% {
+        transform: rotate(-40deg);
+    }
+
 
